@@ -7,3 +7,4 @@ E:\Programming\Visual Studio 2013\Projects\Prince_of_Persia-SOT\Prince_of_Persia
 E:\Programming\Visual Studio 2013\Projects\Prince_of_Persia-SOT\Prince_of_Persia-SOT\obj\Debug\Prince_of_Persia-SOT.csproj.GenerateResource.Cache
 E:\Programming\Visual Studio 2013\Projects\Prince_of_Persia-SOT\Prince_of_Persia-SOT\obj\Debug\Prince_of_Persia-SOT.exe
 E:\Programming\Visual Studio 2013\Projects\Prince_of_Persia-SOT\Prince_of_Persia-SOT\obj\Debug\Prince_of_Persia-SOT.pdb
+E:\Programming\Visual Studio 2013\Projects\Prince_of_Persia-SOT\Prince_of_Persia-SOT\obj\Debug\Prince_of_Persia_SOT.TrainerInstructions.resources

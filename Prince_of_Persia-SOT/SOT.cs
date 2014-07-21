@@ -189,7 +189,8 @@ namespace Prince_of_Persia_SOT
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Run the game, Run the trainer\nLoad the game\nPress Hotkey for desired cheat\n\nThank You & Happy Gaming");
+            TrainerInstructions.ShowBox("Run the game, Run the trainer\nLoad the game\nPress Hotkey for desired cheat\n\n\nThank You && Happy Gaming", "Trainer Instructions");
+            //MessageBox.Show("Run the game, Run the trainer\nLoad the game\nPress Hotkey for desired cheat\n\nThank You & Happy Gaming");
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
