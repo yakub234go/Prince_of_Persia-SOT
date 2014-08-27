@@ -21,7 +21,6 @@ namespace Prince_of_Persia_SOT
             timer1.Start();
         }
 
-        SoundPlayer splay;
         Process[] processes;
         public void inf_h()
         {
